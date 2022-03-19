@@ -2,12 +2,22 @@
 
 Consolidado resultados elecciones Senado 2022 en la ciudad de Bogotá. Los datos incluyen los resultados por partido de las 20 localidades de la ciudad y 2 Zonas especiales (Cárceles y Corferias). Los datos son **transcripciones** de los formatos E26 de la Registraduría, es decir son los datos definitivos. Las transcripciones se verificaron varias veces, sin embargo recomiendo hacer verificaciones (aleatorias?) usando la página de la registraduria para evitar errores en el análisis de los datos. La base de datos incluye el código del documento (*Referencia*) generado por la Registraduria para facilitar la verificación.
 
+La tabla incluye las Circunscripciones nacional e indígena. Cada partido, votos en blanco, votos nulos y votos no marcados se encuentran diferenciados por circunscripción.
+
+# Datos
+
+:page_facing_up: Los datos están displonibles en formato CSV [aqui](Senado_Bogota_2022.csv). 
+
 # Otros recursos
 
 * [Elecciones Presidenciales 2018 (1º vuelta) - Bogotá](https://github.com/SbastianGarzon/BogotaPresidenciales2018)
 * [Elecciones Presidenciales 2018 (2º vuelta) - Bogotá](https://github.com/SbastianGarzon/BogotaPresidenciales2018-II)
 * [Elecciones Senado 2018 - Bogotá](https://github.com/SbastianGarzon/BogotaSen2018)
 
+# Contribuciones 
+
+Si encuentra errores ❌ en la transcripción, abre un 'Issue' indicando el error para corregirlo. 
+Si realiza cualquier analisis con los datos (visualizaciones, articulos, estadisticas, etc...) envíeme un mensaje para poner el link en la discripción de este repositorio.
 
 # Licencia
 
